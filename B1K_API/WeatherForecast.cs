@@ -10,4 +10,8 @@ namespace B1K_API
 
         public string? Summary { get; set; }
     }
+    private class b1k
+    {
+	    public string "I am here hi!"
+    }
 }
